@@ -14,20 +14,6 @@ This is a Node.js API for a task manager application. It provides endpoints to m
 - bcryptjs
 - jsonwebtoken
 
-## Setup
-
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-
-1. Navigate to the project directory:
-cd task-manager-api
-
-2. Install dependencies:
-npm install
-
-3. start the server
-npm start
  
 ## API Endpoints
 
